@@ -1,0 +1,10 @@
+E:\Programming\JetBrains Rider\SchoolCalc3\bin\Debug\SchoolCalc3.exe.config
+E:\Programming\JetBrains Rider\SchoolCalc3\bin\Debug\SchoolCalc3.exe
+E:\Programming\JetBrains Rider\SchoolCalc3\bin\Debug\SchoolCalc3.pdb
+E:\Programming\JetBrains Rider\SchoolCalc3\obj\Debug\SchoolCalc3.csprojAssemblyReference.cache
+E:\Programming\JetBrains Rider\SchoolCalc3\obj\Debug\SchoolCalc3.Properties.Resources.resources
+E:\Programming\JetBrains Rider\SchoolCalc3\obj\Debug\SchoolCalc3.csproj.GenerateResource.cache
+E:\Programming\JetBrains Rider\SchoolCalc3\obj\Debug\SchoolCalc3.csproj.CoreCompileInputs.cache
+E:\Programming\JetBrains Rider\SchoolCalc3\obj\Debug\SchoolCalc3.exe
+E:\Programming\JetBrains Rider\SchoolCalc3\obj\Debug\SchoolCalc3.pdb
+E:\Programming\JetBrains Rider\SchoolCalc3\obj\Debug\SchoolCalc3.Form1.resources
